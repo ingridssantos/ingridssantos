@@ -1,0 +1,3 @@
+- 👋 Olá, sou @ingridssantos
+- 👀 Estou estudando desenvolvimento.
+- 🌱 Sou aluna Recode Pro
