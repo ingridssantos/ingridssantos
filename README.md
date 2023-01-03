@@ -1,3 +1,3 @@
-- 👋 Olá, sou @ingridssantos
-- 👀 Estou estudando desenvolvimento de sites e sistemas.
-- 🌱 Sou aluna Recode Pro.
+- 👋 Olá, sou Ingrid.
+- 👀 Estou estudando desenvolvimento de sites.
+- 🌱 Sou constante aprendiz.
